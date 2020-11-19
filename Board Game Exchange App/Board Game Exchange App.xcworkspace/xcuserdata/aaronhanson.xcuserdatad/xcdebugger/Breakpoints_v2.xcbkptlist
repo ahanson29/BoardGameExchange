@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4343CF1D-0E61-4087-9BEC-B2B784F69095"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FB39B54-E5FA-44DC-A444-196B47830A15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loginSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/AddGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "AddGamesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - 54153c99e2d37d04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.gameDescript.getter : Swift.String"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - 59ada9a54dd28d08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.gameDescript.setter : Swift.String"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - 382efe8304eca139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.gameDescript.modify : Swift.String"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - ed1d2828792c367b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.gameDescript.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - d55ffe4a44e4d6b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Board_Game_Exchange_App.AddGamesViewController"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1743">
+               </Location>
+               <Location
+                  uuid = "B02CDF33-C49D-4A6A-8B0C-9B15E0D27A24 - c381fe5b695377f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Board_Game_Exchange_App.AddGamesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Board_Game_Exchange_App.AddGamesViewController&gt;"
+                  moduleName = "Board Game Exchange App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronhanson/Coding%20Projects/Cpts%20473/BoardGameExchange/Board%20Game%20Exchange%20App/Board%20Game%20Exchange%20App/AddGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1678">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C74E24DB-0DF7-4DFC-9F65-C19F264588DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/SearchGamesToAddTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F8BB8AE-28A6-4FF0-B13A-3930A1344CF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/SearchGamesToAddTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "221C4046-2682-46DB-B62A-D098780D55FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/SearchGamesToAddTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EFC82B4-5A2A-4170-B714-93DECCA42B02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/AddGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3ADD8A8-C776-4779-ABB6-C6AE7CD14F96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/MyResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "parser(_:foundCharacters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C3A9BC-BB44-48F7-8454-3A1EC20EDC02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/GamesToBuyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadGames()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99694A94-5667-4DEA-A2C2-FACA17EFF24C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Board Game Exchange App/GamesToBuyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadGames()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
